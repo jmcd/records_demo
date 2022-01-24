@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1898781_002Dd178_002D40fe_002D809c_002Dcdfea2a11c97/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="I" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.Equality&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.Formatting&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.Deconstructor.HasDeconstructor&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.RecordStructEquivalence.RecordsAreClasses&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.RecordStructEquivalence&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::96127F52-8BF6-489B-B5A6-2A1C2C81EA10::net6.0::Records.UseCaseValueObjects.Eq&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
